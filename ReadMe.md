@@ -1,3 +1,8 @@
+**Documentation**
+
+Documenting our code is important for making it easy to understand and use. There are many tools and formats for documenting APIs, but one popular choice is Swagger/OpenAPI. In this section, we will use Flask-RESTPlus to generate Swagger documentation for our API.
+
+Add the following code to the app.py file, at the top of the file:
 
 In this code, we use Flask-RESTful to define our API endpoints and handle requests and responses. We also use Flask-SQLAlchemy to define our database models and interact with our database.
 
